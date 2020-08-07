@@ -13,3 +13,13 @@
 - Midpoint Report
 
   https://github.com/QiushiTeng/Data-Sicence-Exploration/blob/master/Midpoint%20Report.pdf
+  
+  
+- Project code 
+
+  https://github.com/QiushiTeng/Data-Sicence-Exploration/blob/master/traffic_analysis.ipynb
+  
+  
+- System setup and screenshots
+
+  https://github.com/QiushiTeng/Data-Sicence-Exploration/blob/master/My%20Project%20Setup%20and%20Screenshots.pdf
