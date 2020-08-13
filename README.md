@@ -23,3 +23,13 @@
 - System setup and screenshots
 
   https://github.com/QiushiTeng/Data-Sicence-Exploration/blob/master/My%20Project%20Setup%20and%20Screenshots.pdf
+  
+  
+- Project Slides
+
+  https://github.com/QiushiTeng/Data-Sicence-Exploration/blob/master/Traffic%20Analysis%20in%20Portland.pdf
+  
+  
+- Reflection Paper
+
+  https://github.com/QiushiTeng/Data-Sicence-Exploration/blob/master/Reflection%20Paper.pdf
